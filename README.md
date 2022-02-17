@@ -1,3 +1,3 @@
 # ccc-practice
 
-A collection of CCC practice problems.
+A collection of solutions for Senior problems on the Canadian Computing Competition.
